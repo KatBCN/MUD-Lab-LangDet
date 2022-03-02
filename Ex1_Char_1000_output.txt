@@ -1,0 +1,20 @@
+========
+Languages {'Urdu', 'Indonesian', 'Chinese', 'Latin', 'Tamil', 'Turkish', 'English', 'Korean', 'Spanish', 'Pushto', 'Thai', 'Portugese', 'Russian', 'Japanese', 'Arabic', 'Hindi', 'Estonian', 'Persian', 'Dutch', 'Swedish', 'Romanian', 'French'}
+========
+========
+Split sizes:
+Train: 17600
+Test: 4400
+========
+========
+Number of tokens in the vocabulary: 1000
+Coverage:  0.9808517331929401
+========
+========
+Prediction Results:
+F1: 0.9552272727272727 (micro), 0.9578334706797794 (macro), 0.9574109803676452 (weighted)
+========
+========
+PCA and Explained Variance:
+Variance explained by PCA: [0.3131436  0.13806745]
+========
